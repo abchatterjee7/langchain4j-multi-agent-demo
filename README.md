@@ -314,7 +314,7 @@ curl "http://localhost:8080/api/ai-support/workflow?request=This is my order 104
 
 ## License
 
-This project is for demonstration purposes.
+This project is for demonstration purposes ![](https://github.com/abchatterjee7/langchain4j-multi-agent-demo/blob/main/LICENSE)
 
 ## Contributing
 
